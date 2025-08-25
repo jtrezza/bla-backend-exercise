@@ -2,6 +2,14 @@ This is a [FastAPI](https://fastapi.tiangolo.com/) project bootstrapped with [`P
 
 ## Getting Started
 
+First, make use that you have an updated version of `Poetry`:
+
+```bash
+poetry self update
+```
+
+Also, make sure you're using at leas `Python` 3.13
+
 To install the dependencies, run:
 
 ```bash
