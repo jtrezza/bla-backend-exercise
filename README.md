@@ -2,7 +2,7 @@ This is a [FastAPI](https://fastapi.tiangolo.com/) project bootstrapped with [`P
 
 ## Getting Started
 
-First, make use that you have an updated version of `Poetry`:
+First, make sure that you have an updated version of `Poetry`:
 
 ```bash
 poetry self update
