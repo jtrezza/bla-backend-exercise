@@ -13,6 +13,7 @@ dependencies = [
 ]
 
 [tool.poetry]
+name = "bla-backend-exercise"
 packages = [{include = "bla_backend_exercise", from = "src"}]
 
 
