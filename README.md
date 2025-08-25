@@ -22,4 +22,4 @@ Then, run the development server:
 poetry run uvicorn main:app --reload
 ```
 
-The API will be server on [http://localhost:8000](http://localhost:8000).
+The API will be served on [http://localhost:8000](http://localhost:8000).
