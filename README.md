@@ -8,7 +8,7 @@ First, make sure that you have an updated version of `Poetry`:
 poetry self update
 ```
 
-Also, make sure you're using at leas `Python` 3.13
+Also, make sure you're using at least `Python` 3.13
 
 To install the dependencies, run:
 
